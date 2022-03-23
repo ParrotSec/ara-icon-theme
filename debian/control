@@ -1,0 +1,21 @@
+Source: ara-icon-theme
+Section: x11
+Priority: optional
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
+Build-Depends: jdupes, meson (>= 0.40)
+Standards-Version: 4.5.1
+Rules-Requires-Root: no
+Homepage: https://github.com/parrotsec/ara-icon-theme
+Vcs-Git: https://nest.parrotsec.org/packages/parrot/ara-icon-theme
+Vcs-Browser: https://nest.parrotsec.org/packages/parrot/ara-icon-theme
+
+Package: ara-icon-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ara icon theme for Parrot OS
+ Ara is a modern freedesktop icon theme whose design is based
+ around the use of bold colours and simple geometric shapes to
+ compose icons. Each icon has been meticulously designed for
+ pixel-perfect viewing.
+ .
+ The icon theme has been forked from the Paper icon theme.

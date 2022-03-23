@@ -1,0 +1,44 @@
+ara-icon-theme (1.0.2) parrot-updates; urgency=medium
+
+  * Fix missing archive-manager.png icon.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 23 Mar 2022 14:52:18 +0100
+
+ara-icon-theme (1.0.1) parrot-updates; urgency=medium
+
+  * Update terminal logo.
+  * Use terminal logo for parrot-menu.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 07 Feb 2022 19:10:43 +0100
+
+ara-icon-theme (1.0.0) parrot-updates; urgency=medium
+
+  * Fork package from paper-icon-theme.
+  * Add parrot logo.
+  * Customize some icons. 
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 14 Jan 2022 17:29:25 +0100
+
+paper-icon-theme (1.5.0+git20200312.aa3e8af-3) unstable; urgency=medium
+
+  * debian/control: bumped Standards-Version to 4.5.1.
+  * debian/copyright:
+      - Listed GPL-3 and GPL-3+ verbatim in different paragraphs as indicated
+        by lintian.
+      - Updated packaging copyright years.
+  * debian/salsa-ci.yml: allow reprotest failure while #975684 isn't fixed.
+
+ -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Sat, 06 Feb 2021 00:06:19 -0300
+
+paper-icon-theme (1.5.0+git20200312.aa3e8af-2) unstable; urgency=medium
+
+  * Upload to unstable.
+  * debian/salsa-ci.yml: added to provide CI tests for Salsa.
+
+ -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Mon, 14 Sep 2020 23:03:45 -0300
+
+paper-icon-theme (1.5.0+git20200312.aa3e8af-1) experimental; urgency=medium
+
+  * Initial release. (Closes: #886508)
+
+ -- Carlos Henrique Lima Melara <charlesmelara@outlook.com>  Sun, 21 Jun 2020 14:22:45 -0300
