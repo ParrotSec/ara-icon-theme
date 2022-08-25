@@ -1,3 +1,9 @@
+ara-icon-theme (1.0.3) parrot-updates; urgency=medium
+
+  * Fix volume icons.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 25 Aug 2022 17:47:58 +0200
+
 ara-icon-theme (1.0.2) parrot-updates; urgency=medium
 
   * Fix missing archive-manager.png icon.
