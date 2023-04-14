@@ -1,3 +1,9 @@
+ara-icon-theme (1.0.4) parrot-updates; urgency=medium
+
+  * Rebuild package.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 14 Apr 2023 18:55:19 +0200
+
 ara-icon-theme (1.0.3) parrot-updates; urgency=medium
 
   * Fix volume icons.
